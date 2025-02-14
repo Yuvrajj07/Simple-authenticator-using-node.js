@@ -1,7 +1,14 @@
 <H1>🔐 User Authentication System</H1>
+<BR>
+<BR>
+
 <B>📌 Project Overview</B>
 <BR>
+<BR>
+
 The User Authentication System is a web application built with Node.js, Express.js, MongoDB, HTML, and CSS. It provides a secure platform for users to register, log in, and receive a personalized welcome message upon successful authentication.
+<BR>
+
 <BR>
 <B>🚀 Features : <B>
 <BR>
@@ -11,7 +18,9 @@ The User Authentication System is a web application built with Node.js, Express.
 <BR>
 👋 Personalized Welcome: Upon successful login, users are greeted with a personalized welcome message displaying their username.
 <BR>
-🛠 Tech Stack
+<BR>
+  
+🛠 Tech Stack:
 <BR>
 Backend: Node.js, Express.js
 <BR>
