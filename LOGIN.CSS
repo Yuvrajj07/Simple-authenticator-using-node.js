@@ -1,0 +1,45 @@
+
+  .container {
+    width: 100%;
+    height: 95vh;
+    border: 5px solid;
+    padding: 5px;
+    margin: 5px;
+    display: flex;
+    justify-content:  center;
+    background-color: rgba(161, 205, 50, 0.575);
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
+
+  }
+  .form{
+    position:absolute;
+    top: 20%;
+    left: 40%;
+    width: 55vh;
+    height: 70vh;
+    border: solid 2px rgb(193, 10, 10);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 5px;
+    margin: 5px;
+    background-color: wheat;
+    font-size:larger;
+    font-weight: 500;
+    /* box-shadow: 5px 5PX 6PX (red,blue); */
+    box-shadow: 5px 5px 10px rgba(203, 6, 6, 0.712);
+  }
+  h1{
+    border: 5pX solid blue;
+    border-radius: 3px;
+    font-style:italic;
+    position:absolute;
+    border-spacing: 5px;
+    height: 5vh;
+    width: 25vh;
+    padding: 5px;
+    padding-left: 5%;
+    text-shadow: 1PX 3PX 3PX  rgb(8, 131, 212);
+    box-shadow: 5px 5px 10px rgba(226, 7, 215, 0.94);
+  }
