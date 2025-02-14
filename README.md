@@ -11,10 +11,10 @@ Backend: Node.js, Express.js
 Database: MongoDB (Mongoose ODM)
 Frontend: HTML, CSS
 
-📸 Screenshots
-📝 Registration Page
+<H2>📸 Screenshots</H2>
+<H2>📝 Registration Page</H2>
 <img src="https://github.com/Yuvrajj07/Simple-authenticator-using-node.js/blob/main/images/%7B43BA4A00-9C88-41DA-81BA-EF33BB2AA0D1%7D.png" width="600">
-🔑 Login Page
+<H2>🔑 Login Page</H2>
 <img src="https://github.com/Yuvrajj07/Simple-authenticator-using-node.js/blob/main/images/%7B38DEC264-255F-4A73-898B-D3E7E900806E%7D.png" width="600">
-👋 Welcome Page (After Login)
+<H2>👋 Welcome Page (After Login)</H2>
 <img src="https://github.com/Yuvrajj07/Simple-authenticator-using-node.js/blob/main/images/%7B146CE41F-6F96-42FF-92F0-F0C1CEC1933F%7D.png" width="600">
