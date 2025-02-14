@@ -10,3 +10,5 @@ The User Authentication System is a web application built with Node.js, Express.
 Backend: Node.js, Express.js
 Database: MongoDB (Mongoose ODM)
 Frontend: HTML, CSS
+
+<img src="https://github.com/Yuvrajj07/Simple-authenticator-using-node.js/blob/main/images/%7B43BA4A00-9C88-41DA-81BA-EF33BB2AA0D1%7D.png">
