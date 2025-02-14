@@ -3,7 +3,7 @@
 <BR>
 The User Authentication System is a web application built with Node.js, Express.js, MongoDB, HTML, and CSS. It provides a secure platform for users to register, log in, and receive a personalized welcome message upon successful authentication.
 <BR>
-<B>🚀 Features<B>
+<B>🚀 Features : <B>
 <BR>
 📝 User Registration: New users can create an account by providing a unique username and password.
 <BR>
