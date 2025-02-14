@@ -1,7 +1,5 @@
 <H1>🔐 User Authentication System</H1>
 <BR>
-<BR>
-
 <B>📌 Project Overview</B>
 <BR>
 <BR>
